@@ -1,0 +1,172 @@
+div {
+  width: 150px;
+  height: 200px;
+  position: absolute;
+}
+
+.box4 {
+  top: 220px;
+  left: 100px; 
+  background-color: rgb(245, 20, 20); 
+  border-radius: 25px; 
+}
+
+ .box5 {
+  top: 270px;
+  left: 270px; 
+  width: 150px;
+  height: 150px;
+  background-color: rgb(245, 20, 20); 
+  border-radius: 25px; 
+}
+
+ .box6 {
+  top: 270px;
+  left: 440px; 
+  width: 150px;
+  height: 150px;
+  background-color: rgb(245, 20, 20); 
+  border-radius: 25px; 
+}
+
+ .box7 {
+  top: 270px;
+  left: 610px; 
+  width: 150px;
+  height: 150px;
+  background-color: rgb(245, 20, 20); 
+  border-radius: 25px; 
+}
+
+
+ .box8 {
+  top: 270px;
+  left: 780px; 
+  width: 150px;
+  height: 150px;
+  background-color: rgb(245, 20, 20); 
+  border-radius: 25px; 
+}
+
+
+ .box9 {
+  top: 270px;
+  left: 950px; 
+  width: 150px;
+  height: 150px;
+  background-color: rgb(245, 20, 20); 
+  border-radius: 25px; 
+}
+
+.small1 {
+  width: 30px;
+  height: 10px;
+  top: 280px;
+  left: 160px;
+  background-color: rgb(20, 34, 245);
+}
+
+.small2 {
+  width: 10px;
+  height: 40px;
+  top: 380px;
+  left: 170px;
+  background-color: rgb(20, 34, 245);
+}
+
+.small3 {
+  width: 60px;
+  height: 10px;
+  top: 330px;
+  left: 190px;
+  background-color: rgb(20, 34, 245);
+}
+
+.small4 {
+  width: 30px;
+  height: 10px;
+  top: 330px;
+  left: 330px;
+  background-color: rgb(20, 34, 245);
+}
+
+.small5 {
+  width: 10px;
+  height: 40px;
+  top: 380px;
+  left: 340px;
+  background-color: rgb(20, 34, 245);
+}
+
+.small6 {
+  width: 60px;
+  height: 10px;
+  top: 360px;
+  left: 700px;
+  background-color: rgb(20, 34, 245);
+}
+
+.small7 {
+  width: 10px;
+  height: 30px;
+  top: 360px;
+  left: 700px;
+  background-color: rgb(20, 34, 245);
+}
+
+.small8 {
+  width: 10px;
+  height: 45px;
+  top: 375px;
+  left: 485px;
+  background-color: rgb(20, 34, 245);
+}
+
+ .small9 {
+  width: 10px;
+  height: 45px;
+  top: 270px;
+  left: 540px;
+  background-color: rgb(20, 34, 245);
+}
+
+.small10 {
+  width: 60px;
+  height: 10px;
+  top: 320px;
+  left: 870px;
+  background-color: rgb(20, 34, 245);
+}
+
+.small11 {
+  width: 60px;
+  height: 10px;
+  top: 370px;
+  left: 870px;
+  background-color: rgb(20, 34, 245);
+}
+
+.small12 {
+  width: 50px;
+  height: 10px;
+  top: 370px;
+  left: 950px;
+  background-color: rgb(20, 34, 245);
+}
+
+.small13 {
+  width: 50px;
+  height: 10px;
+  top: 320px;
+  left: 1050px;
+  background-color: rgb(20, 34, 245);
+}
+.description{
+  top: 300px;
+  font-family: Helvetica;
+  font-size: 32px;
+  color: rgb(50, 50, 50)
+  width: 700px
+
+
+
