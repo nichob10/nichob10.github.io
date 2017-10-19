@@ -162,11 +162,14 @@ div {
   background-color: rgb(20, 34, 245);
 }
 .description{
-  top: 300px;
+  top: 450px;
+  left: 175px;
   font-family: Helvetica;
-  font-size: 32px;
-  color: rgb(50, 50, 50)
-  width: 700px
+  font-size: 24px;
+  color: rgb(50, 50, 50);
+  width: 900px
+  
+}
 
 
 
