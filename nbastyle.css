@@ -1,0 +1,371 @@
+.title {
+  position: absolute;
+  top: 20px;
+  left: 280px;
+  width: 300px;
+  font-family: 'Impact', monospace; 
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  text-align: right;
+  height: 100%;
+  overflow: scroll;
+}
+
+
+.joke1 {
+  position: absolute;
+  top: 170px;
+  left: 280px;
+  width: 300px;
+  font-family: 'Helvetica', monospace; 
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  text-align: right;
+  height: 100%;
+  overflow: scroll;
+}
+
+
+  .joke2 {
+  position: absolute;
+  top: 470px;
+  left: 280px;
+  width: 300px;
+  font-family: 'Helvetica', monospace; 
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  text-align: right;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.joke3 {
+  position: absolute;
+  top: 770px;
+  left: 280px;
+  width: 300px;
+  font-family: 'Helvetica', monospace; 
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  text-align: right;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.joke4 {
+  position: absolute;
+  top: 1070px;
+  left: 280px;
+  width: 300px;
+  font-family: 'Helvetica', monospace; 
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  text-align: right;
+  height: 100%;
+  overflow: scroll;
+
+  }
+
+  .joke5 {  
+  position: absolute;
+  top: 1370px;
+  left: 280px;
+  width: 300px;
+  font-family: 'Helvetica', monospace; 
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  text-align: right;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.joke6 {
+  position: absolute;
+  top: 1670px;
+  left: 280px;
+  width: 300px;
+  font-family: 'Helvetica', monospace; 
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  text-align: right;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.joke7 {
+  position: absolute;
+  top: 1970px;
+  left: 280px;
+  width: 300px;
+  font-family: 'Helvetica', monospace; 
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  text-align: right;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+
+.joke8 {
+  position: absolute;
+  top: 2270px;
+  left: 280px;
+  width: 300px;
+  font-family: 'Helvetica', monospace; 
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  text-align: right;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.joke9 {
+  position: absolute;
+  top: 2570px;
+  left: 280px;
+  width: 300px;
+  font-family: 'Helvetica', monospace; 
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  text-align: right;
+  height: 100%;
+  overflow: scroll;
+
+}
+.joke10 {
+  position: absolute;
+  top: 2870px;
+  left: 280px;
+  width: 300px;
+  font-family: 'Helvetica', monospace; 
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  text-align: right;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.joke11 {
+  position: absolute;
+  top: 3170px;
+  left: 280px;
+  width: 300px;
+  font-family: 'Helvetica', monospace; 
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  text-align: right;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.title2 {
+  position: absolute;
+  top:0px;
+  left: 600px;
+  width: 300px;
+  font-family: 'Lobster1.4', monospace; 
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+} 
+
+.jok1 {
+  position: absolute;
+  top: 250px;
+  left: 600px;
+  width: 300px;
+  font-family: 'universe', monospace; 
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+
+.jok2 {
+  position: absolute;
+  top: 430px;
+  left: 600px;
+  width: 300px;
+  font-family: 'universe', monospace; 
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.jok3 {
+  position: absolute;
+  top: 750px;
+  left: 600px;
+  width: 300px;
+  font-family: 'universe', monospace; 
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.jok4 {
+  position: absolute;
+  top: 1080px;
+  left: 600px;
+  width: 300px;
+  font-family: 'universe', monospace; 
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.jok5 {
+  position: absolute;
+  top: 1400px;
+  left: 600px;
+  width: 300px;
+  font-family: 'universe', monospace; 
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.jok6 {
+  position: absolute;
+  top:1650px;
+  left: 600px;
+  width: 300px;
+  font-family: 'universe', monospace; 
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.jok7 {
+  position: absolute;
+  top: 1900px;
+  left: 600px;
+  width: 300px;
+  font-family: 'universe', monospace; 
+  font-size:14px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.jok8 {
+  position: absolute;
+  top: 2150px;
+  left: 600px;
+  width: 300px;
+  font-family: 'universe', monospace; 
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 66px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.lebrontitle {
+  position: absolute;
+  top: 450px;
+  left: 0px;
+  width: 500px;
+  font-family: 'Helvetica', monospace; 
+  font-size: 72px;
+  font-weight: bold;
+  line-height: 160px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.drosetitle {
+  position: absolute;
+  top: -50px;
+  left: 0px;
+  width: 500px;
+  font-family: 'lobster1.4', monospace; 
+  font-size: 56px;
+  font-weight: bold;
+  line-height: 160px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+
+}
