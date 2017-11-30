@@ -1,0 +1,37 @@
+.vid1secription {
+  font-family: 'Helvetica' monospace; 
+  left: 830px;
+  top: 725px;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 18px;
+  letter-spacing: .5px;
+  text-transform: uppercase;
+  text-align: right;
+  height: 25%;
+  width: 300px;
+  overflow: scroll;
+
+}
+
+.titlesb {
+  font-family: 'Futura', monospace; 
+  left: 100px;
+  top: 1000px;
+  font-size: 72px;
+  font-weight: bold;
+  line-height: 100px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: right;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.video1 {
+  top: 740px;
+  left: 500px;
+  position: absolute;
+
+}
