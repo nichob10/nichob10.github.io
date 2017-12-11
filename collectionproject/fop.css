@@ -1,0 +1,103 @@
+div {
+  position: absolute;
+
+}
+
+.fopvid1 {
+	top: 400px;
+	left: 30px;
+
+}
+
+
+.foppagetitle {
+    top: 0px;
+    left: 100px;
+    width: 1050px;
+    font-family: 'Impact', monospace;
+    font-size: 45px;
+    font-weight: bold;
+    line-height: 100px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    text-align: center;
+    height: 100%;
+    overflow: scroll;
+
+}
+
+.sbpagesubtitle {
+  top: 200px;
+    left: 100px;
+    width: 1050px;
+    font-family: 'Helvetica', monospace;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 100px;
+    letter-spacing: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    height: 100%;
+    overflow: scroll;
+
+}
+
+.fopvid1description {
+  top: 410px;
+  left: 520px;
+  width: 700px;
+  font-family: 'Impact' monospace; 
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 50px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 40%;
+  overflow: scroll;
+	
+}
+
+.fopvid2 {
+	top: 800px;
+	left: 30px;
+
+}
+
+.fopvid2description {
+  top: 810px;
+  left: 520px;
+  width: 700px;
+  font-family: 'Impact' monospace; 
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 50px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 40%;
+  overflow: scroll;
+
+ }
+
+.fopvid3 {
+	top: 1200px;
+	left: 30px;
+
+}
+
+.fopvid3description {
+  top: 1270px;
+  left: 520px;
+  width: 700px;
+  font-family: 'Impact' monospace; 
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 50px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 40%;
+  overflow: scroll;
+
+ }

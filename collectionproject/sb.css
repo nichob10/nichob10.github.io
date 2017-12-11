@@ -1,0 +1,103 @@
+div {
+  position: absolute;
+
+}
+
+.sbvid1 {
+	top: 400px;
+	left: 30px;
+
+}
+
+
+.sbpagetitle {
+    top: 0px;
+    left: 100px;
+    width: 1050px;
+    font-family: 'Impact', monospace;
+    font-size: 45px;
+    font-weight: bold;
+    line-height: 100px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    text-align: center;
+    height: 100%;
+    overflow: scroll;
+
+}
+
+.sbpagesubtitle {
+	top: 200px;
+    left: 100px;
+    width: 1050px;
+    font-family: 'Helvetica', monospace;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 100px;
+    letter-spacing: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    height: 100%;
+    overflow: scroll;
+
+}
+
+.sbvid1description {
+  top: 410px;
+  left: 520px;
+  width: 700px;
+  font-family: 'Impact' monospace; 
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 50px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 70%;
+  overflow: scroll;
+	
+}
+
+.sbvid2 {
+	top: 800px;
+	left: 30px;
+
+}
+
+.sbvid2description {
+  top: 810px;
+  left: 520px;
+  width: 700px;
+  font-family: 'Impact' monospace; 
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 50px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 70%;
+  overflow: scroll;
+
+ }
+
+.sbvid3 {
+	top: 1200px;
+	left: 30px;
+
+}
+
+.sbvid3description {
+  top: 1210px;
+  left: 520px;
+  width: 700px;
+  font-family: 'Impact' monospace; 
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 50px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 70%;
+  overflow: scroll;
+
+ }
