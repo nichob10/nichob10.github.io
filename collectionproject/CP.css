@@ -1,0 +1,275 @@
+div {
+  width: 900px;
+  height: 15px;
+  position: absolute;
+
+}
+
+.timeline {
+	width: 805px;
+	top: 400px;
+	left: 100px; 
+	background-color: rgb(20, 34, 245);
+
+}
+
+
+.branch1 {
+	width: 5px;
+  	height: 200px;
+	top: 200px;
+	left: 100px; 
+	background-color: rgb(20, 34, 245);
+
+}
+
+
+.branch2 {
+	width: 5px;
+  	height: 200px;
+	top: 400px;
+	left: 300px; 
+	background-color: rgb(20, 34, 245);
+
+}
+
+
+.branch3 {
+	width: 5px;
+  	height: 200px;
+	top: 400px;
+	left: 690px; 
+	background-color: rgb(20, 34, 245);
+
+}
+
+.branch4 {
+	width: 5px;
+  	height: 200px;
+	top: 200px;
+	left: 900px; 
+	background-color: rgb(20, 34, 245);
+
+}
+
+.circle1 {
+  width: 300px;
+  height: 300px;
+  top: 220px;
+  left: 340px;
+  background-color: rgb(255,255,255); 
+  border-radius: 50%;
+  border: 2px solid rgb(20, 34, 245);
+
+}
+
+.box1 {
+  width: 200px;
+  height: 200px;
+  top: 0px;
+  left: 100px;
+  border: 0px solid rgb(20, 34, 245);
+
+}
+
+.box2 {
+  width: 200px;
+  height: 200px;
+  top: 600px;
+  left: 103px;
+  border: 0px solid rgb(20, 34, 245);
+
+}
+
+.box3 {
+  width: 200px;
+  height: 200px;
+  top: 0px;
+  left: 703px;
+  border: 0px solid rgb(20, 34, 245);
+
+}
+
+.box4 {
+  width: 200px;
+  height: 200px;
+  top: 600px;
+  left: 690px;
+  border: 0px solid rgb(20, 34, 245);
+
+}
+
+.title {
+  top: 260px;
+  left: 320px;
+  width: 350px;
+  font-family: 'Impact', monospace; 
+  font-size: 45px;
+  font-weight: bold;
+  line-height: 100px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: center;
+  height: 100%;
+  overflow: scroll;
+
+}
+
+.dt1 {
+  top: 220px;
+  left: 120px;
+  width: 350px;
+  font-family: 'Helvetica' monospace; 
+  font-size: 10px;
+  font-weight: bold;
+  line-height: 30px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+	
+}
+
+.dt2 {
+  top: 220px;
+  left: 690px;
+  width: 350px;
+  font-family: 'Helvetica' monospace; 
+  font-size: 10px;
+  font-weight: bold;
+  line-height: 30px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+	
+}
+
+.dt3 {
+  top: 430px;
+  left: 170px;
+  width: 350px;
+  font-family: 'Helvetica' monospace; 
+  font-size: 10px;
+  font-weight: bold;
+  line-height: 30px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+	
+}
+
+
+.dt4 {
+  top: 430px;
+  left: 710px;
+  width: 350px;
+  font-family: 'Helvetica' monospace; 
+  font-size: 10px;
+  font-weight: bold;
+  line-height: 30px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+	
+}
+
+.spongebobcover {
+  top: 0px;
+  left: 103px;
+  
+
+}
+
+.fairlyoddparentscover {
+	 top: 30px;
+     left: 705px;
+
+}
+	
+
+.invaderzimcover {
+	 top: 650px;
+     left: 103px;
+
+}
+
+.rickandmortycover {
+	 top: 650px;
+     left: 680px;
+
+}
+
+.sbdescription {
+  top: 250px;
+  left: 120px;
+  width: 200px;
+  font-family: 'Impact' monospace; 
+  font-size: 10px;
+  font-weight: bold;
+  line-height: 20px;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 30%;
+  overflow: scroll;
+	
+}
+
+.fopdescription {
+  top: 250px;
+  left: 680px;
+  width: 200px;
+  font-family: 'Impact' monospace; 
+  font-size: 10px;
+  font-weight: bold;
+  line-height: 20px;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+  text-align: right;
+  height: 20%;
+  overflow: scroll;
+
+}
+
+.izdescription {
+  top: 460px;
+  left: 90px;
+  width: 200px;
+  font-family: 'Impact' monospace; 
+  font-size: 10px;
+  font-weight: bold;
+  line-height: 20px;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+  text-align: right;
+  height: 30%;
+  overflow: scroll;
+	
+}
+
+.rmdescription {
+  top: 460px;
+  left: 710px;
+  width: 200px;
+  font-family: 'Impact' monospace; 
+  font-size: 10px;
+  font-weight: bold;
+  line-height: 20px;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+  text-align: left;
+  height: 20%;
+  overflow: scroll;
+}
+
+
+
+
+
